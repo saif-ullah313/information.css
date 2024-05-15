@@ -1,0 +1,48 @@
+label {
+    font-size: 1.5vw;
+}
+.class1 >input {
+    width: 15%;
+    height: 2vw;
+    margin-left: 5vw;
+}
+.class2 >input {
+    width : 15%;
+    height:2vw;
+    margin-left:3vw
+}
+.class3 >input{
+    margin-left :4vw;
+    
+}
+.class4 >input{
+    margin-left :3.5vw;
+}
+.class5 >select {
+    width: 20%;
+    height: 2vw;
+    margin-left: 4vw;
+}
+ 
+.class7 > input {
+    width: 10%;
+   padding: 5px;
+    gap: 2vw;
+    border-radius: 5px;
+    
+}
+.class6  {
+    display: flex;
+    
+}
+.class6-1 {
+    margin-left: 10vw;
+}
+form {
+    margin-left: 40vw;
+}
+h2 {
+    text-align: center;
+}
+
+
